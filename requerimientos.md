@@ -11,3 +11,6 @@
 - Control de permisos
 - Protección de la información
 - Registro de accesos y modificaciones
+
+## Escalabilidad
+El sistema debe permitir incorporar nuevos usuarios y funcionalidades a medida que aumenten las necesidades de la organización.
